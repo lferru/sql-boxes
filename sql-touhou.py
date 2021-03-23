@@ -1,5 +1,5 @@
 import sqlite3
-import vlc
+#import vlc
 import subprocess
 from PIL import Image
 conn = sqlite3.connect('touhou.db')
