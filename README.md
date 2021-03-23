@@ -8,3 +8,5 @@ There are six operations: delete a single row, add a single row, display all row
 To run the script, enter the following in your shell:
 
 python3 sql-touhou.py
+
+The characters in this database are from the Touhou video game series.
