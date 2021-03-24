@@ -9,6 +9,6 @@ To run the script, enter the following in your shell:
 
 python3 sql-touhou.py
 
-As of now, this script requires the PIL, sqlite3, and subprocess modules. It also assumes you have the vlc and display commands available on your system.
+As of now, this script requires the PIL, sqlite3, and subprocess modules. It also assumes you have the vlc and display (a part of ImageMagick) commands available on your terminal.
 
 The characters in this database are from the Touhou video game series.
